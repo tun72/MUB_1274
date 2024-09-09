@@ -1,0 +1,9 @@
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB_1274\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB_1274\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB_1274\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB_1274\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB_1274\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Form1.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB_1274\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB_1274\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB_1274\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB_1274\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
